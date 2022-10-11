@@ -2,7 +2,7 @@
 name: Bug report
 about: Créer un rapport de Bug
 title: "[BUG] "
-labels: bug
+labels: ''
 assignees: ''
 
 ---
